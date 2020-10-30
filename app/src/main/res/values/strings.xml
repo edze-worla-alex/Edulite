@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Edulite</string>
+    <string name="action_sign_in_short">Register</string>
+    <string name="email">Email</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="change_email">Change Email</string>
+    <string name="change_password">Change Password</string>
+    <string name="new_pass">New Password</string>
+    <string name="title_activity_profile">Firebase</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_register">Not a member? Get registered now!</string>
+    <string name="btn_link_to_login">Already registered. Login Me!</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="hint_new_email">New Email</string>
+    <string name="btn_change">Change</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_remove">Remove</string>
+    <string name="btn_sign_out">Sign Out</string>
+    <string name="user_email_text">"User Email :  "</string>
+    <string name="user_id_text">"User Id :  "</string>
+    <string name="error_toast_enter_email">"Enter email address!</string>
+    <string name="wrong_email_format">Wrong email format</string>
+    <string name="error_toast_enter_password">Enter password!</string>
+    <string name="error_toast_short_password">Password too short, enter minimum 6 characters!</string>
+    <string name="error_toast_auth_failed">Authentication failed.</string>
+    <string name="toast_auth_completed">createUserWithEmail:onComplete:</string>
+    <string name="btn_new_post_text">Add new post</string>
+
+    <string name="camera_button_text">Upload</string>
+    <string name="take_photo_prompt">Upload a Photo</string>
+    <string name="download">Download</string>
+    <string name="success">Success</string>
+    <string name="log_out">Log out</string>
+
+    <string name="take_video_from_camera">Take from camera</string>
+    <string name="choose_video_from_gallery">Choose from gallery</string>
+    <string name="dialog_choose_cancel">Cancel</string>
+    <string name="add_new_video">Add new post video</string>
+    <string name="uploading">Uploading...</string>
+
+    <string name="error_toast_taking_vid_failed">Taking video failed.</string>
+    <string name="error_toast_not_fetch_user">Error: could not fetch user.</string>
+    <string name="error_toast_upload_failed">Error: upload failed</string>
+
+    <string name="post_title_hint">Title</string>
+    <string name="post_link_hint">Post link</string>
+    <string name="user_info">User info</string>
+    <string name="dialog_info_title">Current user info</string>
+    <string name="db_on_complete_msg" translatable="false">postTransaction:onComplete:</string>
+    <string name="must_pass_extra_key">Must pass EXTRA_POST_KEY</string>
+    <string name="failed_load_post">Failed to load post.</string>
+    <string name="failed_load_comments">Failed to load comments.</string>
+    <string name="on_cancelled_err" translatable="false">onCancelled:</string>
+    <string name="my_post_text">My First Post</string>
+    <string name="field_comment_hint_text">Write a comment...</string>
+    <string name="btn_post_comment_text">Post</string>
+    <string name="loading_text">Loading...</string>
+    <string name="post_author_text" translatable="false">someauthor@email.com</string>
+    <string name="post_body_text" translatable="false">test text text link</string>
+    <string name="comment_author_text" translatable="false">Some Name</string>
+    <string name="comment_body_text" translatable="false">This is the comment text..</string>
+    <string name="share_intent_subject">Check out this video!</string>
+    <string name="share_intent_title">Share via</string>
+    <string name="empty_posts_list_text" translatable="false">The post list is empty.\nAdd your post.</string>
+    <string name="require_perm" translatable="false">Edulite need these permissions to add new posts.</string>
+</resources>

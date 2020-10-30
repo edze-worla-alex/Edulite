@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "706408514173",
+    "firebase_url": "https://edulite-ece48.firebaseio.com",
+    "project_id": "edulite-ece48",
+    "storage_bucket": "edulite-ece48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706408514173:android:c6c20910857ad582daa714",
+        "android_client_info": {
+          "package_name": "code.app.education.edulite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706408514173-999ndt2a99090llnqhld0m4oqnp8r3td.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKyDFj_N6tKuRbFJ87uZpx1l-ZTBdZINQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706408514173-999ndt2a99090llnqhld0m4oqnp8r3td.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
